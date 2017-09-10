@@ -7,5 +7,8 @@
     "author": {
       "name": "Eser Ozvataf",
       "email": "eser@ozvataf.com"
+    },
+    "config": {
+      "posts_per_page": 50
     }
 }
