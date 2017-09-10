@@ -1,8 +1,11 @@
 {
-    "name"        : "Crisp",
+    "name"        : "crisp_larukedi",
     "version"     : "0.5.0",
     "description" : "A minimalist, responsive, and open-source theme for Ghost",
-    "author"      : "Kathy Qian",
     "homepage"    : "https://github.com/kathyqian/crisp-ghost-theme",
-		"license"     : "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International"
+    "license"     : "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "author": {
+      "name": "Eser Ozvataf",
+      "email": "eser@ozvataf.com"
+    }
 }
